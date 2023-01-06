@@ -29,7 +29,7 @@ padding: 18px 35px;
 nav{
     display:  flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 nav li{
     list-style: none;
@@ -185,6 +185,9 @@ font-size: 35px;
      width: 100%;
      padding:18px 30px;
      border: none !important;
+ }
+ textarea{
+    margin-bottom: 24px;
  }
 input{
     
