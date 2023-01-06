@@ -131,21 +131,30 @@ padding: 30px;
 }
 .section-title{
     margin-bottom: 172px;
-}
-.resume-title{
-    margin-top: 160px;
     font-weight: 700;
-font-size: 35px;
-line-height: 48px;
-/* identical to box height */
-
-text-align: center;
-
-/* Dark 01 */
-
-color: #181818;
-
+    font-size: 35px;
+    color: #181818;
+    margin-top: 130px;  
 }
+/*resume styles*/
+     
+ .resume-content{
+    display: flex;
+ }
+ .resume.title{
+    font-weight: 700px;
+    font-size: 25px;
+    color: #474747;
+
+ }
+ .resume.sub-title{
+          color:#757575;
+          font-weight: 600px;
+          font-size: 20px;
+ }
+ .resume.description{
+         color: #757575;
+ }
 
 
 
